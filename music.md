@@ -24,4 +24,4 @@ Here you can find all of my artist channels and links to my accounts on streamin
 
 #### Shigosen
 
-- [Soundcloud](https://soundcloud.com/shigosenn){:target="_blank"}
+- [Soundcloud](https://soundcloud.com/shigosen){:target="_blank"}
