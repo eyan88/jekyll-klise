@@ -5,6 +5,7 @@ layout: page
 excerpt: Music links
 comments: false
 ---
+<script defer src="/_vercel/insights/script.js"></script>
 
 <hr>
 
